@@ -6,7 +6,7 @@ let empresas = {
 }
 let botao =document.querySelector("#login");
 
-botao.addEventListener('click', function(){
+botao.addEventListener("click", function(){
 
     login = prompt("Digite seu nome");
     senha = prompt("Digite sua senha");
