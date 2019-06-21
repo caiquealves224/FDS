@@ -1,5 +1,6 @@
 # Projeto feito no evento de final de semana da Estação Hack...
-![estacao-logo](https://user-images.githubusercontent.com/37445916/59895614-9a652c80-93bb-11e9-912d-1adec1291db7.png)
+![Estação Hack2](https://user-images.githubusercontent.com/37445916/59895885-adc4c780-93bc-11e9-8aa6-f6b9ddfee1f1.png)
+
 
 
 
