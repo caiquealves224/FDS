@@ -1,5 +1,7 @@
 # Projeto feito no evento de final de semana da Estação Hack...
-![estacao-logo](https://user-images.githubusercontent.com/37445916/59709072-50722000-91dc-11e9-8a70-872e82b9876e.png)
+![estacao-logo](https://user-images.githubusercontent.com/37445916/59895614-9a652c80-93bb-11e9-912d-1adec1291db7.png)
+
+
 
 Link: https://caiquealves224.github.io/Site-Industria-4.0-FDS/
 
